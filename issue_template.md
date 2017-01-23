@@ -20,8 +20,3 @@
 
 **Other Customizations**: Are you use core/db patches or other customizations? If yes please specify them here.
 
-
-[//]: # (This template is for problem reports, for other type of reports edit it accordingly)
-[//]: # (If this is a crash report, include the crashlog with https://gist.github.com/)
-[//]: # (For fixes containing c++ create a Pull Request)
-
